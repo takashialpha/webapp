@@ -1,7 +1,7 @@
-# TODO List for Shell Project
+# TODO List for Web Application
 
 ## Missing Features
-- [ ] Implement simple tab completion / suggestions
-- [ ] Pipes, simple structures for shell scripting
-- [ ] Add more (more) built-in commands
-- [ ] Add more configs and clap entries.
+- [] Logging
+- [] TOML configuration file
+- [] Basic Clap CLI
+- [] Reload admin API
